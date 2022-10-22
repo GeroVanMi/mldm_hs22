@@ -1,6 +1,7 @@
 """
 author: Gerome Meyer
-Based on this tutorial: https://realpython.com/logistic-regression-python/#logistic-regression-in-python
+Based on the following article:
+https://realpython.com/logistic-regression-python
 """
 
 import matplotlib.pyplot as plt
